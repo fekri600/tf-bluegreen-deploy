@@ -160,7 +160,7 @@ This infrastructure may incur charges depending on region and usage.
 
 ---
 
-## 👨‍💻 Maintainer
+##  Maintainer
 
 **Fekri Saleh**  
 Cloud Architect & DevOps Engineer  
