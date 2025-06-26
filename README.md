@@ -1,4 +1,4 @@
-# Terraform Blue-Green Deployment on AWS
+# Terraform Blue-Green Infrastructure Deployment on AWS
 
 This repository provides a fully automated Terraform-based solution for deploying and managing AWS infrastructure across multiple environments (`staging` and `production`). It leverages Terraform workspaces, modular code architecture, and GitHub Actions for CI/CD automation, following the **Blue-Green deployment strategy** to enable zero-downtime rollouts.
 
