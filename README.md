@@ -108,14 +108,14 @@ Testing Internet Access...
 
 ---
 
-## 🧰Utility Scripts
+## Utility Scripts
 
 - `scripts/generate_provider_file.sh` – Dynamically generates provider configurations from bootstrap outputs.
 - `scripts/user_data.sh.tmpl` – Template for EC2 initialization scripts.
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 infra_redesign_auto/
