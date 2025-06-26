@@ -160,6 +160,12 @@ This infrastructure may incur charges depending on region and usage.
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ##  Maintainer
 
 **Fekri Saleh**  
