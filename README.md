@@ -37,7 +37,7 @@ To tear down the bootstrap resources:
 ```bash
 make delete-bootstrap
 ```
-![Diagram](./bootstrap/bootstrap_diagarm.png)
+![Diagram](./bootstrap/bootstrap_diagram.png)
 
 
 ---
