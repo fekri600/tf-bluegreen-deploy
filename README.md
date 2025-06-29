@@ -15,6 +15,8 @@ The infrastructure is organized into modular components to ensure scalability, r
 - **Policies & Scripts**: Includes IAM policy JSONs and shell scripts for connectivity testing, dynamic provider setup, and more.
 
 ---
+![diagram](blue-green-deployment.png)
+---
 
 ## Getting Started
 
