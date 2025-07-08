@@ -90,25 +90,6 @@ security_groups = {
 }
 
 
-# ==========================
-# Launch Template Configuration
-# 
-# - architecture: CPU architecture type.
-#     Options: "x86_64" (Intel/AMD), "arm64" (AWS Graviton - ARM-based)
-# 
-# - storage: EBS volume type.
-#     Options: 
-#       - "gp2": General Purpose SSD (default)
-#       - "gp3": Next-generation SSD (better baseline performance and tunable IOPS/throughput) at a lower base price than gp2.
-#       - "io1"/"io2": Provisioned IOPS SSD (for high-performance apps)
-#       - "sc1"/"st1": Throughput-optimized HDD (for big data workloads)
-# 
-# - instance_type: EC2 instance type.
-#     Examples:
-#       - "t2.micro": Free tier eligible
-#       - "t3.micro"/"t3a.micro": Burstable general purpose
-#       - "t4g.micro": ARM-based, lowest cost (Graviton)
-# ==========================
 launch_template = {
   staging = {
     architecture  = "x86_64"
