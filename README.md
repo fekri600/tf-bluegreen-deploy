@@ -188,6 +188,28 @@ This infrastructure may incur charges depending on region and usage.
 
 ---
 
+## Project Deliverable
+
+A comprehensive project deliverable document is included as part of this repository.
+
+The deliverable outlines:
+- System architecture and infrastructure design
+- Terraform IaC structure
+- Blue-Green deployment strategy
+- CI/CD automation with GitHub Actions
+- Resource inventory, security model, and observability plan
+- Cost estimation and optimization recommendations
+
+📄 [Download Deliverable PDF](./Cloud_Projects_deliverable_tempalte.pdf)
+
+This document is intended for:
+- DevOps engineers
+- Cloud architects
+- Technical reviewers
+- Infrastructure maintainers
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
