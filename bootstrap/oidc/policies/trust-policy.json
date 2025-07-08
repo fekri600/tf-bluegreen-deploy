@@ -11,8 +11,8 @@
         "Condition": {
           "StringLike": {
             "token.actions.githubusercontent.com:sub": [
-              "repo:fekri600/infra_redesign_auto:main",
-              "repo:fekri600/infra_redesign_auto:*"
+              "repo:fekri600/tf-bluegreen-deploy:main",
+              "repo:fekri600/tf-bluegreen-deploy:*"
             ]
           }
         }
